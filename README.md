@@ -35,6 +35,14 @@ Next go to web browser and type localhost:(portNumber) to the web application. A
   <h4>If you find a bug (unable to running the project due to any error or having issues in downloading project), kindly open an issue by including your search query and expected result</h4>
  <h2>Technologies Used</h2>
    <h4>Java, Angular, SpringBoot, SpringData, PostgreSQL, JSON</h4>
+  <h2>Contributor</h2>
+    <h4>PatientOnBoarding WebApp is a group project. We are of 6 members combinely divided our work and later integrated all to make this project.
+      Haritha Prabhakaran, Meena Govindaraj, Mubasheer, Pavithra Nagarajan, Soumya Govindraj, Sudharani Konari</h4>
+    <h3>My role in this project</h3>
+    <h4><li> Updating Doctor Availabilities by setting date and time.</li>
+        <li> Registration of a doctor which is done by admin.</li>
+        <li> Admin login and doctor login pages.</li>
+        <li> Obtaining the details of the patient who has booked the appointment. </li></h4>
 
 
 
